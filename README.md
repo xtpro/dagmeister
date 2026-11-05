@@ -66,12 +66,3 @@ DagMeister connects to the places your work already lives, and it's built to gro
 - **Builders of AI agents** who want their agents to run like production software
 - **Organizations** that need separate workspaces for each customer, team, or environment
 
----
-
-## License
-
-Copyright © 2026 [Company Name]. All rights reserved.
-
-DagMeister is proprietary software. Its source code and documentation are not licensed for use,
-copying, modification, or distribution without written permission. DagMeister is offered as a hosted
-service, and access is governed by the terms agreed with the service provider.
